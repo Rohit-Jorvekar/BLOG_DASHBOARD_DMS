@@ -13,13 +13,12 @@ This CMS-level dashboard enables creating, managing, previewing, and publishing 
 ---
 ## 📸 Screenshots
 
-![image (5)](https://github.com/user-attachments/assets/408fd32f-c435-4faf-a3ed-7cb8d97f2368)
-![image (4)](https://github.com/user-attachments/assets/3d1dce59-ad4d-444c-ae7e-94e0e079a20f)
-![image (3)](https://github.com/user-attachments/assets/2431343b-c192-4e8f-8780-e3346d35297e)
-![image (2)](https://github.com/user-attachments/assets/6a468e4a-a61a-46cb-ae48-6c27a14a92e6)
-![image (1)](https://github.com/user-attachments/assets/e8c09520-053c-4ec9-a087-9e4e2502c520)
-![image (6)](https://github.com/user-attachments/assets/a3984673-ee02-4c8c-be40-209d3547226e)
-
+![image (1)](https://github.com/user-attachments/assets/4c7b91eb-cf64-401c-9466-6511566a6ac3)
+![image (2)](https://github.com/user-attachments/assets/d6158b81-5fbc-4383-87e1-6a07cdc9fad8)
+![image (3)](https://github.com/user-attachments/assets/5777a2fe-2958-4f59-a1c8-b046bc80ee91)
+![image (4)](https://github.com/user-attachments/assets/693302a9-9726-4851-b8b3-458c5cd80ff6)
+![image (5)](https://github.com/user-attachments/assets/6432911a-9815-499f-a315-535689c44cfa)
+![image (6)](https://github.com/user-attachments/assets/caebd571-8382-419b-9ad3-c5868b1f75b9)
 
 ## ✅ Assignment Checklist
 
